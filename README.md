@@ -1,6 +1,6 @@
 # -PORTAFOLIO-NLP
 
-![NLP](NLP.jpg)
+![NLP](NLP.1.jpg)
 
 Mi nombre es Stephany Bogoya soy Ingeniera de petróleos, me encontré con el mundo de los datos por casualidad y me enamoré completamente de él!! :D.
 Disfruté  por completo la clase de NLP y aprendí un sin número de técnicas y métodos nuevos que utilizo a diario en mi trabajo. 
