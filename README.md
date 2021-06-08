@@ -1,9 +1,11 @@
 # -PORTAFOLIO-NLP
 
-![NLP](NLP.jpg)
+![NLP](NLP.png)
 
 Mi nombre es Stephany Bogoya soy Ingeniera de petróleos, me encontré con el mundo de los datos por casualidad y me enamoré completamente de él!! :D.
 Disfruté  por completo la clase de NLP y aprendí un sin número de técnicas y métodos nuevos que utilizo a diario en mi trabajo. 
+
+En este portafolio encontrarás los siguientes notebooks:
 
 
 [Adquisición de textos](https://github.com/StephanyBogoya/-PORTAFOLIO-NLP/blob/main/Soluci%C3%B3n%20Taller%202.ipynb)
